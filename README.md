@@ -20,15 +20,7 @@ A static, animated gaming landing page built with HTML, CSS, JS, and GSAP/Scroll
 
 ### Demo Video
 
-https://user-images.githubusercontent.com/your-id/game.mp4
-
-**Note:** To display the video properly on GitHub:
-1. Create a new issue in your repository
-2. Drag and drop `docs/screenshots/game.mp4` into the issue comment box
-3. GitHub will upload it and generate a URL like `https://user-images.githubusercontent.com/...`
-4. Copy that URL and replace the placeholder above
-
-Or view the video file directly: [Watch Demo Video](docs/screenshots/game.mp4)
+https://github.com/user-attachments/assets/0c66dbf3-6a44-447b-97cc-327381e2e131
 
 ## Notes
 - Main stylesheet: `css/index.min.css`
