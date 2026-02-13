@@ -19,11 +19,7 @@ A static, animated gaming landing page built with HTML, CSS, JS, and GSAP/Scroll
 ![Hero](docs/screenshots/hero.png)
 
 ### Demo Video
-
-https://github.com/Hemu2174/animated-gaming-website/docs/screenshots/game.mp4
-
-Or use HTML video tag:
-
+![video](docs/screenshots/game.mp4)
 <video src="docs/screenshots/game.mp4" controls width="100%"></video>
 
 ## Notes
