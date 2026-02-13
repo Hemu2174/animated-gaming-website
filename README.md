@@ -2,6 +2,10 @@
 
 A static, animated gaming landing page built with HTML, CSS, JS, and GSAP/ScrollTrigger.
 
+## 🚀 Live Demo
+
+**[View Live Demo](https://animated-gaming-website-rho.vercel.app/)**
+
 ## Features
 - Smooth scrolling between hero, discover, story, and contact sections
 - GSAP-driven animations and scroll effects
