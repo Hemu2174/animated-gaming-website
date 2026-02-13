@@ -20,7 +20,7 @@ A static, animated gaming landing page built with HTML, CSS, JS, and GSAP/Scroll
 
 ### Demo Video
 
-https://github.com/Hemu2174/animated-gaming-website/assets/your-user-id/game.mp4
+https://github.com/Hemu2174/animated-gaming-website/docs/screenshots/game.mp4
 
 Or use HTML video tag:
 
